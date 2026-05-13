@@ -45,8 +45,6 @@
 Экосистема **активно развивается** *(avisdev.ru — в разработке)*:  
 новые модули, переработка архитектуры, оптимизация API, улучшение UX.
 
----
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
