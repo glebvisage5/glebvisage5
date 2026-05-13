@@ -45,9 +45,7 @@
 Экосистема **активно развивается** *(avisdev.ru — в разработке)*:  
 новые модули, переработка архитектуры, оптимизация API, улучшение UX.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+---
 
 ## ⚙️ Full‑Stack Стек
 
@@ -108,7 +106,9 @@ Backend‑логика, архитектура, API, интеграции — в
 - **Ростелеком — технологии DevOps (2024–2025)**  
 - **МИРЭА — Frontend, Backend, Level Design, Management (2025–2026)**  
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <div align="center">
 
@@ -185,7 +185,9 @@ Training configurations • Metadata • Accounting modules
 - **Rostelecom — DevOps Technologies (2024–2025)**  
 - **RTU MIREA — Frontend, Backend, Level Design, Management (2025–2026)**  
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 <div align="center">
 
