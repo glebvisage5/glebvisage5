@@ -5,7 +5,7 @@
 
 [🇷🇺 Русский](#-russian) • [🇬🇧 English](#-english)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=22&center=true&vCenter=true&width=650&lines=Full‑Stack+Developer+%7C+System+Architect;Creator+of+Student+Ecosystem+Platform;React+%7C+Vue+%7C+Node.js+%7C+TypeScript;Building+Long‑Term+Educational+Systems;Student+at+RTU+MIREA" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF4C&size=22&center=true&vCenter=true&width=650&lines=Full‑Stack+Developer+%7C+System+Architect;Creator+of+Student+Ecosystem+Platform;React+%7C+Vue+%7C+Node.js+%7C+TypeScript;Building+Long‑Term+Educational+Systems;Student+at+RTU+MIREA" />
 
 </div>
 
@@ -42,7 +42,7 @@
 Проект полностью мой — **архитектура, frontend, backend, интеграции, документация, поддержка**.
 
 ### Текущий статус
-Экосистема **активно развивается**:  
+Экосистема **активно развивается** *(avisdev.ru — в разработке)*:  
 новые модули, переработка архитектуры, оптимизация API, улучшение UX.
 
 ---
@@ -106,12 +106,19 @@ Backend‑логика, архитектура, API, интеграции — в
 ## 🏆 Достижения
 - **Yandex Cup 2024 — 14 место (финал, Узбекистан)**  
 - **Yandex Cup 2025 — 16 место (отборочный тур)**  
+- **Samsung — мобильная разработка (Java)**  
+- **Ростелеком — технологии DevOps (2024–2025)**  
+- **МИРЭА — Frontend, Backend, Level Design, Management (2025–2026)**  
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF4C&size=20&center=true&vCenter=true&width=500&lines=Спасибо+за+просмотр!;Открыт+к+сотрудничеству;Готов+к+обсуждению+архитектуры;Full‑stack+задачи+и+новые+проекты" />
+
 </div>
+
+---
 
 ## 🇬🇧 English
 
@@ -142,7 +149,7 @@ A multi‑service educational platform with:
 The entire system — architecture, frontend, backend, integrations, documentation — is built by me alone.
 
 ### Current status
-The project is **actively evolving** with new modules, improved architecture, optimized APIs, and better UX.
+The project is **actively evolving** *(avisdev.ru — in development)* with new modules, improved architecture, optimized APIs, and better UX.
 
 ---
 
@@ -176,14 +183,14 @@ Training configurations • Metadata • Accounting modules
 ## 🏆 Achievements
 - **Yandex Cup 2024 — 14th place (final, Uzbekistan)**  
 - **Yandex Cup 2025 — 16th place (qualification round)**  
+- **Samsung — Mobile Development (Java)**  
+- **Rostelecom — DevOps Technologies (2024–2025)**  
+- **RTU MIREA — Frontend, Backend, Level Design, Management (2025–2026)**  
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="100%" />
-
-### Thanks for visiting.  
-Open to collaboration, architecture discussions, and full‑stack challenges.
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF4C&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Open+to+collaboration;Architecture+discussions+welcome;Full‑stack+challenges+and+new+projects" />
 
 </div>
