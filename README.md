@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Gleb — Full‑Stack Developer & System Architect  
+# ⚡ Gleb - Full‑Stack Developer & System Architect  
 ### React • Vue • Node.js • TypeScript • gRPC • Architecture • Education Tech
 
 [🇷🇺 Русский](#-russian) • [🇬🇧 English](#-english)
@@ -17,11 +17,11 @@
 
 ### 🧭 О себе
 Я full‑stack разработчик и студент **МИРЭА (Программная инженерия)**.  
-Основной коммерческий опыт — **frontend‑разработка**: интерфейсы для игр, CRM‑систем, корпоративных инструментов.  
+Основной коммерческий опыт - **frontend‑разработка**: интерфейсы для игр, CRM‑систем, корпоративных инструментов.  
 Параллельно развиваюсь как backend‑инженер и архитектор.
 
 Создаю интерфейсы, backend‑сервисы, интеграции и архитектурные решения для сложных систем.  
-Мой главный проект — **образовательная экосистема**, которую я разрабатываю **полностью самостоятельно**.
+Мой главный проект - **образовательная экосистема**, которую я разрабатываю **полностью самостоятельно**.
 
 ---
 
@@ -41,10 +41,10 @@
 - документацию, UI‑компоненты, дизайн  
 
 ### Ключевой момент
-Проект полностью мой — **архитектура, frontend, backend, интеграции, документация, поддержка**.
+Проект полностью мой - **архитектура, frontend, backend, интеграции, документация, поддержка**.
 
 ### Текущий статус
-Экосистема **активно развивается** *(avisdev.ru — в разработке)*:  
+Экосистема **активно развивается** *(avisdev.ru - в разработке)*:  
 новые модули, переработка архитектуры, оптимизация API, улучшение UX.
 
 ---
@@ -79,7 +79,7 @@ Ant Design
 ---
 
 ## 🎓 Образование
-**МИРЭА — Российский технологический университет**  
+**МИРЭА - Российский технологический университет**  
 Программная инженерия  
 2023–2027 (обучаюсь)
 
@@ -87,26 +87,26 @@ Ant Design
 
 ## 🧩 Опыт
 
-### **Частная практика — Frontend Developer (2 года 8 месяцев)**  
+### **Частная практика - Frontend Developer (2 года 8 месяцев)**  
 Интерфейсы, интеграции, оптимизация, CRM‑системы, игровые UI.
 
 ### **Full‑Stack (проектная работа)**  
-Backend‑логика, архитектура, API, интеграции — в рамках собственной образовательной экосистемы.
+Backend‑логика, архитектура, API, интеграции - в рамках собственной образовательной экосистемы.
 
-### **РТУ МИРЭА — Оператор ЭВМ (4 месяца)**  
+### **РТУ МИРЭА - Оператор ЭВМ (4 месяца)**  
 Поддержка электронного журнала, исправление ошибок, добавление модулей.
 
-### **ООО Агросервис — Инженер‑программист (1С)**  
+### **ООО Агросервис - Инженер‑программист (1С)**  
 Настройка конфигураций, тестирование, подключение бухгалтерского учета.
 
 ---
 
 ## 🏆 Достижения
-- **Yandex Cup 2024 — 14 место (финал, Узбекистан)**  
-- **Yandex Cup 2025 — 16 место (отборочный тур)**  
-- **Samsung — мобильная разработка (Java)**  
-- **Ростелеком — технологии DevOps (2024–2025)**  
-- **МИРЭА — Frontend, Backend, Level Design, Management (2025–2026)**  
+- **Yandex Cup 2024 - 14 место (финал, Узбекистан)**  
+- **Yandex Cup 2025 - 16 место (отборочный тур)**  
+- **Samsung - мобильная разработка (Java)**  
+- **Ростелеком - технологии DevOps (2024-2025)**  
+- **МИРЭА - Frontend, Backend, Level Design, Management (2025-2026)**  
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -146,10 +146,10 @@ A multi‑service educational platform with:
 - documentation & UI design  
 
 ### Key point
-The entire system — architecture, frontend, backend, integrations, documentation — is built by me alone.
+The entire system - architecture, frontend, backend, integrations, documentation - is built by me alone.
 
 ### Current status
-The project is **actively evolving** *(avisdev.ru — in development)* with new modules, improved architecture, optimized APIs, and better UX.
+The project is **actively evolving** *(avisdev.ru - in development)* with new modules, improved architecture, optimized APIs, and better UX.
 
 ---
 
@@ -175,17 +175,17 @@ Training configurations • Metadata • Accounting modules
 ---
 
 ## 🎓 Education
-**RTU MIREA — Software Engineering**  
+**RTU MIREA - Software Engineering**  
 2023–2027 (currently studying)
 
 ---
 
 ## 🏆 Achievements
-- **Yandex Cup 2024 — 14th place (final, Uzbekistan)**  
-- **Yandex Cup 2025 — 16th place (qualification round)**  
-- **Samsung — Mobile Development (Java)**  
-- **Rostelecom — DevOps Technologies (2024–2025)**  
-- **RTU MIREA — Frontend, Backend, Level Design, Management (2025–2026)**  
+- **Yandex Cup 2024 - 14th place (final, Uzbekistan)**  
+- **Yandex Cup 2025 - 16th place (qualification round)**  
+- **Samsung - Mobile Development (Java)**  
+- **Rostelecom - DevOps Technologies (2024-2025)**  
+- **RTU MIREA - Frontend, Backend, Level Design, Management (2025-2026)**  
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
