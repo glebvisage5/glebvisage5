@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Visage — Full‑Stack Developer & System Architect  
+# ⚡ Gleb — Full‑Stack Developer & System Architect  
 ### React • Vue • Node.js • TypeScript • gRPC • Architecture • Education Tech
 
 [🇷🇺 Русский](#-russian) • [🇬🇧 English](#-english)
@@ -9,7 +9,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ## 🇷🇺 Russian
 
